@@ -1,2 +1,1 @@
-# prawo-pomoc.pl
- Strona Agaty
+# prawo-pomoc
